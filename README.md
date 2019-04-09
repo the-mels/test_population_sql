@@ -1,5 +1,5 @@
 # test_population_sql
-Cette archive propose un ensemble de requêtes SQL pour étudier les populations de queqlues villes mondiales, en réponse à l'exercice disponible sur ce lien https://gist.github.com/lexman/bdfbdeca156931a33317e2d5e7f8e050 
+Cette archive propose un ensemble de requêtes SQL pour étudier les populations de quelques villes mondiales, en réponse à l'exercice disponible sur ce lien https://gist.github.com/lexman/bdfbdeca156931a33317e2d5e7f8e050 
 
 # Exigences
 L'exécution de ce prototype requiert l'installation de MySQL
